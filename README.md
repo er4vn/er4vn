@@ -1,4 +1,4 @@
-# 🧠 er4vn — Red Teamer | Hacker | Gamer
+# er4vn — Red Teamer | Hacker | Gamer
 
 ### Red Team Leader @Red Alert | Cyber Offense Specialist
 
