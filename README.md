@@ -1,6 +1,6 @@
 # er4vn — Red Teamer | Hacker | Gamer
 
-### Red Team Leader @Red Alert | Cyber Offensive Specialist
+### Red Team Leader @Red Alert | Cyber Security Specialist
 
 > "I don't play the game... I exploit it."
 
