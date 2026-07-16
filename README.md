@@ -1,49 +1,38 @@
-# er4vn 
+# er4vn
 
-### Red Alert | Cyber Security Specialist
-
-> "I don't play the game... I exploit it."
-
-Welcome to my world — I’m **er4vn**, a red team operator and cyber enthusiast who lives at the edge of systems, firewalls, and logic. I lead the **Red Alert** team, where we break things professionally to make them stronger.
+`WEB SECURITY SPECIALIST // PENETRATION TESTER // WEB DEVELOPER`
 
 ---
 
-## ⚔️ Offensive Arsenal
+I don't run scanners and call it a day. I read the logic, trace the auth flow, and chain the boring bugs into the ones that actually matter.
 
-- 🧨 Red Team Operations & Simulation
-- 🛰️ Internal Network Recon & Lateral Movement
-- 👤 Credential Dumping & PrivEsc
-- 🧱 Active Directory Attacks & Evasion
-- 🐍 Payload Dev (PowerShell, Python, C++, Nim)
-- ⚙️ C2 Comms, AMSI Bypass, AV/EDR Evasion
+I started as a **web developer** — WordPress, PHP, JavaScript, Python. That's exactly why I'm dangerous now. I know how these systems are built, so I know exactly where they break.
+
+**4+ years** finding what production systems don't want found.
 
 ---
 
-## 🎮 When I'm Not Hacking...
+### currently
 
-- 🎮 I'm fragging in FPS, leading squads, or mastering strategy games
-- ☁️ I build sandbox labs to try new exploits
-- 🧪 Always exploring new bypass techniques
-
----
-
-## 📂 Projects & Ops
-
-- 💣 Tools for privilege escalation & red teaming
-- 🎯 Scripts for stealth enumeration & persistence
-- 🧬 Proof-of-concept exploits
-- 🧠 Custom payloads for adversary simulation
+```
+> specializing in API security
+> working toward OSCP / OSWE
+> auth systems under active review
+> based in Mashhad, IR
+```
 
 ---
 
-## 🧑‍💻 Mindset
-
-> Hack the mindset, not just the machine.  
-> If they see you — you failed.
+> understand the system before you attack it.
+> the best bugs live in the logic, not the payload.
+> **if they see you — you failed.**
 
 ---
 
-## 📫 Contact Me
+**stack**
 
-```bash
-echo "DM me on GitHub or catch me in the shadows."
+<img src="https://skillicons.dev/icons?i=py,php,js,html,css,wordpress,linux,git&theme=dark" />
+
+---
+
+`reachable via GitHub DM only. no other channels monitored.`
