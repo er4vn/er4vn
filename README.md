@@ -18,7 +18,7 @@ I started as a **web developer** — WordPress, PHP, JavaScript, Python. That's 
 > specializing in API security
 > working toward OSCP / OSWE
 > auth systems under active review
-> based in Mashhad, IR
+> based in IR
 ```
 
 ---
