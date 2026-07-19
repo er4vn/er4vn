@@ -1,14 +1,19 @@
-# er4vn
+<img width="1983" height="793" alt="ChatGPT Image Jul 19, 2026, 04_04_41 AM" src="https://github.com/user-attachments/assets/8b13e8b1-ab22-49eb-9de7-4e498144c87c" />
+
 
 `WEB SECURITY SPECIALIST // PENETRATION TESTER // WEB DEVELOPER`
 
 ---
 
-I don't run scanners and call it a day. I read the logic, trace the auth flow, and chain the boring bugs into the ones that actually matter.
+I don't trust scanners. I trust understanding.
 
-I started as a **web developer** — WordPress, PHP, JavaScript, Python. That's exactly why I'm dangerous now. I know how these systems are built, so I know exactly where they break.
+Former Developer → Offensive Security Researcher
 
-**4+ years** finding what production systems don't want found.
+WordPress • PHP • JavaScript • Python
+
+Business Logic • Authentication • Access Control • API Security
+
+4+ years finding what production systems never meant to expose.
 
 ---
 
